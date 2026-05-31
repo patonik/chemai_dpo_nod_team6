@@ -1,16 +1,3 @@
-# chemai_dpo_nod_team6
-
-## Chemai 1.0.1 improvements:
-
-* Feature scaling (RobustScaler - more robust to outliers)
-* Low-variance feature removal
-* Better hyperparameter settings
-* Cross-validation predictions (more stable)
-* Separate tuning per target
-* Clipping + better post-processing
-* Full training on all data
-
-
 # Multi-Target Prediction Pipeline (IC50, CC50, SI)
 
 Пайплайн для предсказания трёх ключевых параметров противовирусной активности соединений: **IC50** (концентрация полумаксимального ингибирования), **CC50** (цитотоксическая концентрация) и **SI** (индекс селективности).
